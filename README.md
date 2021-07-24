@@ -39,4 +39,4 @@
 ### Do ponto de vista do Cliente os resultados evidenciados tem sua importância pelo fato de mostrar "onde não se deve comprar" ou "onde você deve ter atenção ao comprar.
 ### Os consumidores na atualidade estão cada vez mais atentos à sites como Reclame aqui, avaliações no google dentre outras aplicações presentes na internet.  Neste sentido manter uma imagem boa no mercado é de grande importância para as organização da atualidade, onde existem um grande número de empresas oferendo produtos similares e/ou com alguma diferenciação que pode fazer o cliente comprar em outra empresa. 
 
-
+## Coloquei comentários naas linhas de códigos do arquivo IPYNB, preciso de ajuda para melhorar as vizualizações, algueém se habilita ? Estudo por conta própia com conteúdos de graça disponilizados pela internet
