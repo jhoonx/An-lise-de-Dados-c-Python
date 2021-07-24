@@ -29,7 +29,7 @@
 
 # Importancia da análise
 
-### Esta análise possui sua relevância pelo fato de evidenciar fatos ocorridos no passado por meio de contagem. Contamos quais são as regiões com maior número de atendimentos, destrichamos por estados, razão social, tipo de problema, os períodos com mais atendimento no segundo trimeste de 2020. 
+### Esta análise possui sua relevância pelo fato de evidenciar fatos ocorridos no passado por meio de contagem. Contamos quais são as regiões com maior número de atendimentos, destrinchamos por estados, razão social, tipo de problema, os períodos com mais atendimento no segundo trimeste de 2020. 
 
 ### Pensando pela ótica empresarial a analise dos resultados tem grande relevância para evidenciar os tipos de problemas enfrentados pelos consumidores a fim das organizações repensarem seus processos e estratégias para melhorar o valor ao cliente. Por meio de algum indicador bem definido pode-se monitorar a número de reclamações de determinda organização e partir para ação. 
 ### Se você entrega muito valor aos clientes, muito provavelmente existe toda uma cadeia de atividades e estratégia por trás disso, consequentemente seus números de reclamações caem, pois o conjunto de atividades e processos bem definidos e resenhados com foco em melhoria contínua irá aumentar o valor gerado aos seus clientes. . 
